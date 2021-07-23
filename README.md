@@ -1,6 +1,6 @@
 # ToDo-App
 
-Created using React Js and Google Firebase.
+It is a Normal ToDo List saver using React Js and Google Firebase.
 
 # See Live
 
