@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.appTitle{
+    width: 40%;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 12px ;
+}
+
+.appFooter{
+    margin-top: 30%;
+    text-align: center;
+    color: crimson;
+    cursor: default;
+}
+
+.todoList{
+    background-color: rgb(210, 213, 219);
+    border-radius: 16px;
+    margin-top: 3px;
+}
