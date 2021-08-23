@@ -1,6 +1,8 @@
 # Dev_ToDo
 
-It is a Normal ToDo List saver using React Js and Google Firebase.
+A Web application where we can save our ToDo with the status of the ToDo posted in the application
+
+Tech Stack : React.js, Firebase
 
 ### [Explore Live](https://todoapp-f509b.web.app/)
 
